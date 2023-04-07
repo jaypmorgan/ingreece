@@ -1,0 +1,71 @@
+#+title: Irene's & Jay's Wedding
+#+options: num:nil
+#+html_head: <link rel="stylesheet" type="text/css" href="general.css"/>
+
+* In Brief
+
+To save you the trouble of reading this entire web-page, here is the
+brief summary:
+
+- Date: Saturday, 29th July 2023.
+- Venue: Athens, Greece.
+
+* Dates
+
+29th July 2023.
+
+* Location
+
+#+begin_export html
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12565.881656278358!2d23.77469417033678!3d38.059424432330644!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14a198cb56e511f9%3A0x400bd2ce2b97ad0!2zUGVma2ksIEdyw6hjZQ!5e0!3m2!1sfr!2suk!4v1679758593126!5m2!1sfr!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+#+end_export
+
+Pefki Athens.
+
+* Travelling to & around Athens
+
+https://www.athenstransport.com/english/
+
+** Airport
+- Airport information.
+  https://www.aia.gr/traveler/
+
+  https://www.athenstransport.com/english/airport/
+
+** Metro
+
+Athens is well connected with an over-/under-ground metro system which
+runs from the location of the Wedding to many of the tourist spots
+(such as the [[Marousi]], [[Parthenon][Parthenon]], and [[Piraes]]).
+
+Tickets can be purchased at a machine outside all stations. Usually,
+you would pay 10 euros for 10 trips. The machine will dispense a card
+which will open the turnstiles going in and out the station.
+
+More information on the ticketing system can be found at:
+https://www.athenstransport.com/english/tickets/
+
+** Car hire
+- Renting a car.
+  
+* Hotel information
+
+- Multiple hotels in the area
+
+* What to do in Athens
+
+https://www.athenstransport.com/2017/07/places-to-visit-in-athens-greece-public-transport/
+
+** Parthenon
+
+** National Archieleogical meseum
+
+** Monosteraki
+
+** Marousi
+
+** Kifisia
+
+** Piraes
+
+* Traditional greek dancing

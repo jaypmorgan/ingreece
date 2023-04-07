@@ -1,0 +1,11 @@
+html {
+    font-family: 'Verdana', sans-serif;
+}
+
+body {
+    width: 70ch;
+    line-height: 1.3em;
+    margin: 0 auto;
+}
+
+#postamble { display: none; }

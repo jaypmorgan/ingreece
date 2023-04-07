@@ -1,42 +1,55 @@
-#+title: Irene's & Jay's Wedding
+#+title: Jay & Irene's Wedding
 #+options: num:nil
 #+html_head: <link rel="stylesheet" type="text/css" href="general.css"/>
+#+html_head: <meta name="viewport" content="width=device-width, initial-scale=1">
 
 * In Brief
 
 To save you the trouble of reading this entire web-page, here is the
 brief summary:
 
-- Date: Saturday, 29th July 2023.
-- Venue: Athens, Greece.
+- When: 6pm, Saturday, 29th July 2023.
+- Where: Ιερός Ναός Ζωοδόχου Πηγής, Menelaou Lountemi, Lykovrysi,
+  Greece.
 
-* Dates
+* Wedding
 
-29th July 2023.
+The wedding will be starting on Saturday, 29th of July 2023 at
+6pm. All events (wedding, hotels, and the reception) are located in
+Pefki:
 
-* Location
-
-#+begin_export html
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12565.881656278358!2d23.77469417033678!3d38.059424432330644!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14a198cb56e511f9%3A0x400bd2ce2b97ad0!2zUGVma2ksIEdyw6hjZQ!5e0!3m2!1sfr!2suk!4v1679758593126!5m2!1sfr!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-#+end_export
-
-Pefki Athens.
+- Church: [[https://goo.gl/maps/wJc84xYxFyBXM1cr9][Ιερός Ναός Ζωοδόχου Πηγής, Menelaou Lountemi, Lykovrysi,
+  Greece]] (Holy Church of Zoodochos Pigis, Menelaou Lountemi,
+  Lykovrysi, Greece).
+- Hotel: [[https://www.booking.com/hotel/gr/green-hill.en-gb.html][Green Hill Hotel]]
+- Reception (Taverna): [[https://briganda-pefki.business.site/?utm_source=gmb&utm_medium=referral][Μπριγκάντα]]
 
 * Travelling to & around Athens
 
-https://www.athenstransport.com/english/
-
 ** Airport
-- Airport information.
-  https://www.aia.gr/traveler/
 
-  https://www.athenstransport.com/english/airport/
+If you're arriving at the Athens airport, there are many ways in which
+you could get to the city. To get to Pefki, one of the easiest methods
+would be via the metro. The metro line is called *Proastiakos* which
+requires a different ticket than travelling around Athens. This line
+doesn't go all the way to Pefki, so you will need to change lines at
+Nerantziotissa, and from there, continue to Maroussi where you can get
+to Pefki.
+
+In summary to get to Pefki from the Athens international airport to
+Pefki you can go via:
+
+Athens airport \rightarrow Nerantziotissa \rightarrow Maroussi
+
+Additional information:
+- https://www.aia.gr/traveler/
+- https://www.athenstransport.com/english/airport/
 
 ** Metro
 
 Athens is well connected with an over-/under-ground metro system which
 runs from the location of the Wedding to many of the tourist spots
-(such as the [[Marousi]], [[Parthenon][Parthenon]], and [[Piraes]]).
+(such as the Maroussi, Parthenon, and Pireaus).
 
 Tickets can be purchased at a machine outside all stations. Usually,
 you would pay 10 euros for 10 trips. The machine will dispense a card
@@ -45,27 +58,28 @@ which will open the turnstiles going in and out the station.
 More information on the ticketing system can be found at:
 https://www.athenstransport.com/english/tickets/
 
-** Car hire
-- Renting a car.
-  
-* Hotel information
-
-- Multiple hotels in the area
-
 * What to do in Athens
 
 https://www.athenstransport.com/2017/07/places-to-visit-in-athens-greece-public-transport/
 
-** Parthenon
-
-** National Archieleogical meseum
-
-** Monosteraki
-
-** Marousi
-
-** Kifisia
-
-** Piraes
+- *Parthenon* - It wouldn't be a trip to Athens without visiting the Parthenon.
+- *Monastiráki* - A busy market where you can find good food and lots
+  of small shops.
+- *Maroussi* - One metro stop from Pefki, Maroussi is a wonderful
+  place with plenty of shopping, restaurants, and cafes.
+- *Kifisia* - Various bars, shops, cafes. If you go to Kifisia, you
+  have to visit [[https://goo.gl/maps/u3VMbiMmGUC4XoreA][Varsos]]!
+- *Piraeus* - Pireaus is the main port in Athens, and from here, you
+  can take various ferries, a popular destination being Αίγινα.
 
 * Traditional greek dancing
+
+After the ceremony there will be plenty of music and dancing, so you
+can prepare by learning some traditional greek dances! These include:
+
+- Hasapiko
+- Sirtaki
+- Kalamatianos
+- [[https://www.youtube.com/watch?v=qOZTRT8jNuc][Μπάλλος]] (Ballos)
+
+Some of the most popular greek dances are summarised [[https://greektraveltellers.com/blog/most-famous-greek-dances][here]].

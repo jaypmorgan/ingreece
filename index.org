@@ -22,18 +22,35 @@ Pefki:
   Greece]] (Holy Church of Zoodochos Pigis, Menelaou Lountemi,
   Lykovrysi, Greece).
 - Hotel: [[https://www.booking.com/hotel/gr/green-hill.en-gb.html][Green Hill Hotel]]
-- Reception: Green Hall ([[https://greenhall.gr/][https://greenhall.gr/]])
+- Reception: Green Hall ([[https://greenhall.gr/][https://greenhall.gr/]]). Green Hall by Laios,
+  20χλμ Λεωφόρου, Parnithos, Athina 136 71, Greece
+
+* Local Amenities
+
+- Local hairdressers: '23 hair creations', 23 hair creations,
+  Leof. Irinis 20, Pefki 151 21, Phone number: +30 21 1012 4027
+- Super Market: ΣΚΛΑΒΕΝΙΤΗΣ (Sklavenitis) is across the road from the
+  hotel.
 
 * Travelling to & around Athens
 
 ** Airport
 
-If you're arriving at the Athens airport, there are many ways in which you could get to the city. To get to Pefki, one of the easiest methods would be via the metro. The metro line is called Proastiakos which requires a different ticket than travelling around Athens. This line doesn't go all the way to Pefki, so you will need to change lines at Nerantziotissa, and from there, continue to Maroussi where you can get to Pefki.
+If you're arriving at the Athens airport, there are many ways in which
+you could get to the city. To get to Pefki, one of the easiest methods
+would be via the metro. The metro line is called Proastiakos which
+requires a different ticket than travelling around Athens. This line
+doesn't go all the way to Pefki, so you will need to change lines at
+Nerantziotissa, and from there, continue to Maroussi where you can get
+to Pefki.
 
-In summary, to get to the hotel (https://www.greenhill.gr/el/) from the Athens international airport via:
+In summary, to get to the hotel (https://www.greenhill.gr/el/) from
+the Athens international airport via:
 
-1) Athens airport \rightarrow Nerantziotissa \rightarrow Maroussi \rightarrow Taxi to the hotel
-2) Athens airport \rightarrow Nerantziotissa \rightarrow Taxi to the hotel
+1) Athens airport \rightarrow Nerantziotissa \rightarrow Maroussi
+   \rightarrow Taxi to the hotel
+2) Athens airport \rightarrow Nerantziotissa \rightarrow Taxi to the
+   hotel
 
 Additional information:
 - https://www.aia.gr/traveler/

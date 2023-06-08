@@ -3,6 +3,7 @@
 
 html {
     font-family: 'Verdana', sans-serif;
+    background-color: #ffffecff;
 }
 
 body {
@@ -16,7 +17,7 @@ body {
 
 #content {
     max-width: 70ch !important;
-    padding-left: 2% !important;
+    padding-left: 5% !important;
     margin: 0;
 }
 
@@ -26,6 +27,26 @@ h1,h2,h3,h4,h5 {
 
 h2 {
     margin-top: 3ch;
+}
+
+#borderIMG {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+@media screen and (max-width: 500px) {
+    #borderIMG {
+        width: 40%;
+    }
+
+    #borderIMG > img {
+        width: 100%;
+    }
+
+    #content {
+        margin-top: 60px;
+    }
 }
 
 @media screen and (min-width: 100ch) {

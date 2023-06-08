@@ -3,6 +3,10 @@
 #+html_head: <link rel="stylesheet" type="text/css" href="general.css"/>
 #+html_head: <meta name="viewport" content="width=device-width, initial-scale=1">
 
+#+begin_export html
+<div id="borderIMG"><img src="./border.png"/></div>
+#+end_export
+
 * In Brief
 
 To save you the trouble of reading this entire web-page, here is the

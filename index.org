@@ -3,10 +3,6 @@
 #+html_head: <link rel="stylesheet" type="text/css" href="general.css"/>
 #+html_head: <meta name="viewport" content="width=device-width, initial-scale=1">
 
-#+begin_export html
-<div id="borderIMG"><img src="./border.png"/></div>
-#+end_export
-
 * In Brief
 
 To save you the trouble of reading this entire web-page, here is the
@@ -41,12 +37,12 @@ Pefki:
 ** Airport
 
 If you're arriving at the Athens airport, there are many ways in which
-you could get to the city. To get to Pefki, one of the easiest methods
-would be via the metro. The metro line is called Proastiakos which
-requires a different ticket than travelling around Athens. This line
-doesn't go all the way to Pefki, so you will need to change lines at
-Nerantziotissa, and from there, continue to Maroussi where you can get
-to Pefki.
+you could get to the city. To get to the hotel, one of the easiest
+methods would be via the metro. The metro line is called Proastiakos
+which requires a different ticket than travelling around Athens. This
+line doesn't go all the way to the hotel, so you will need to change
+lines at Nerantziotissa, and from there, continue to Maroussi where
+you can get to the hotel.
 
 In summary, to get to the hotel (https://www.greenhill.gr/el/) from
 the Athens international airport via:

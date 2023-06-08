@@ -4,6 +4,8 @@
 html {
     font-family: 'Verdana', sans-serif;
     background-color: #ffffecff;
+    background-image: url("./border.png");
+    background-repeat: no-repeat;
 }
 
 body {
